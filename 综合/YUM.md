@@ -11,11 +11,11 @@
 | yum remove package                   | 使用 YUM 删除包。                                      |
 | yum erase package                    | 使用 YUM 删除包。                                      |
 | yum list package                     | 列出有关 yum 包的信息。                                |
-| yum provides httpd                   | 显示一个包是的用途，例如： Apache HTTPD Server。       |
+| yum provides httpd                   | 显示一个包的用途，例如： Apache HTTPD Server。         |
 | yum info httpd                       | 显示包信息，架构，版本等信息。                         |
 | yum localinstall blah.rpm            | 使用 YUM 来安装本地 RPM， 从资源库进行安装。           |
 | yum deplist package                  | 显示包的提供方信息。                                   |
-| yum list installed \| more           | 列出所有已安装的包。                                   |
-| yum grouplist \| more                | 显示所有的 YUM 分组。                                  |
+| yum list installed                   | 列出所有已安装的包。                                   |
+| yum grouplist                        | 显示所有的 YUM 分组。                                  |
 | yum groupinstall 'Development Tools' | 安装 YUM 分组。                                        |
 
