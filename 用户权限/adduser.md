@@ -1,6 +1,6 @@
 # adduser
 
-```
-adduser hadoop sudo
+```bash
+# adduser hadoop sudo 
 ```
 
