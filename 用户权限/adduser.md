@@ -1,0 +1,6 @@
+# adduser
+
+```
+adduser hadoop sudo
+```
+
